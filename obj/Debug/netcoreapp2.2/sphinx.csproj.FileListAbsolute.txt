@@ -1,0 +1,11 @@
+c:\Users\maili\github\sphinx\bin\Debug\netcoreapp2.2\sphinx.deps.json
+c:\Users\maili\github\sphinx\bin\Debug\netcoreapp2.2\sphinx.runtimeconfig.json
+c:\Users\maili\github\sphinx\bin\Debug\netcoreapp2.2\sphinx.runtimeconfig.dev.json
+c:\Users\maili\github\sphinx\bin\Debug\netcoreapp2.2\sphinx.dll
+c:\Users\maili\github\sphinx\bin\Debug\netcoreapp2.2\sphinx.pdb
+c:\Users\maili\github\sphinx\obj\Debug\netcoreapp2.2\sphinx.csprojAssemblyReference.cache
+c:\Users\maili\github\sphinx\obj\Debug\netcoreapp2.2\sphinx.csproj.CoreCompileInputs.cache
+c:\Users\maili\github\sphinx\obj\Debug\netcoreapp2.2\sphinx.AssemblyInfoInputs.cache
+c:\Users\maili\github\sphinx\obj\Debug\netcoreapp2.2\sphinx.AssemblyInfo.cs
+c:\Users\maili\github\sphinx\obj\Debug\netcoreapp2.2\sphinx.dll
+c:\Users\maili\github\sphinx\obj\Debug\netcoreapp2.2\sphinx.pdb
